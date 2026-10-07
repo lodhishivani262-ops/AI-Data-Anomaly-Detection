@@ -1,0 +1,489 @@
+transaction_id,timestamp,customer_id,product,category,quantity,unit_price,discount,amount,country,payment_method
+INV539487,2025-05-16 16:37:00,CUST1044,Wool Scarf,Apparel,8,12.47,0,99.76,Germany,Bank Transfer
+INV538743,2025-04-13 11:31:00,CUST1036,Throw Pillow,Home Decor,7,8.07,0,56.49,United Kingdom,Debit Card
+INV540487,2025-05-31 12:39:00,CUST1074,Yoga Mat,Sports,2,950.0,0.0,1900.0,Netherlands,Bank Transfer
+INV536937,2025-01-25 11:04:00,CUST1033,Bluetooth Speaker,Electronics,1,23.59,0.05,22.41,Spain,PayPal
+INV536849,2025-01-21 14:50:00,CUST1113,Notebook Set,Stationery,6,3.02,0,18.12,Spain,Bank Transfer
+INV537338,2025-02-11 09:22:00,CUST1011,Yoga Mat,Sports,2,16.04,0,32.08,Ireland,Bank Transfer
+INV537823,2025-03-05 19:59:00,CUST1064,Yoga Mat,Sports,10,15.48,0.1,139.32,Netherlands,PayPal
+INV537173,2025-02-03 13:43:00,CUST1038,Wool Scarf,Apparel,10,12.08,0,120.8,Belgium,Credit Card
+INV538840,2025-04-17 14:35:00,CUST1025,Cotton T-Shirt,Apparel,9,8.42,0.05,71.99,Netherlands,PayPal
+INV539639,2025-05-22 14:11:00,CUST1093,Glass Vase,Home Decor,7,10.43,0,73.01,Germany,Bank Transfer
+INV537267,2025-02-07 19:02:00,CUST1010,Yoga Mat,Sports,6,15.61,0.1,84.29,Spain,Debit Card
+INV536546,2025-01-09 10:49:00,CUST1080,Leather Wallet,Accessories,3,23.14,0,69.42,Portugal,Debit Card
+INV539591,2025-05-21 10:42:00,CUST1055,Leather Wallet,Accessories,11,23.15,0,254.65,United Kingdom,PayPal
+INV536944,2025-01-25 18:30:00,CUST1061,Cotton T-Shirt,Apparel,6,8.35,0.05,47.59,Ireland,PayPal
+INV540144,2025-06-15 19:41:00,CUST1015,Throw Pillow,Home Decor,8,7.14,0,57.12,Portugal,Debit Card
+INV538632,2025-04-08 16:18:00,CUST1082,Wireless Mouse,Electronics,10,14.61,0,146.1,France,Bank Transfer
+INV538536,2025-04-04 10:11:00,CUST1105,Yoga Mat,Sports,9,16.23,0,146.07,Netherlands,Credit Card
+INV537056,2025-01-30 09:47:00,CUST1006,Notebook Set,Stationery,11,3.12,0,34.32,Ireland,PayPal
+INV539860,2025-06-01 08:23:00,CUST1088,Notebook Set,Stationery,10,3.33,0.05,31.63,Netherlands,Debit Card
+INV539851,2025-06-01 18:32:00,CUST1117,Bluetooth Speaker,Electronics,3,25.97,0.05,74.01,Belgium,PayPal
+INV540462,2025-06-28 18:39:00,CUST1103,Bluetooth Speaker,Electronics,1,24.09,0,24.09,Belgium,Debit Card
+INV536808,2025-01-20 12:01:00,CUST1040,Yoga Mat,Sports,2,15.9,0,31.8,Netherlands,Credit Card
+INV539724,2025-05-26 19:06:00,CUST1074,Cotton T-Shirt,Apparel,8,7.39,0,59.12,Netherlands,Credit Card
+INV539269,2025-05-06 08:02:00,CUST1052,Leather Wallet,Accessories,1,22.61,0,22.61,Germany,Bank Transfer
+INV536799,2025-01-19 13:45:00,CUST1084,Travel Mug,Kitchenware,9,5.9,0,53.1,Belgium,Credit Card
+INV537286,2025-02-09 12:07:00,CUST1043,Scented Candle,Home Decor,5,6.11,0,30.55,France,Credit Card
+INV540434,2025-06-27 10:59:00,CUST1045,Coffee Beans 1kg,Grocery,8,11.94,0,95.52,Germany,PayPal
+INV540389,2025-06-24 09:01:00,CUST1068,Yoga Mat,Sports,7,14.22,0,99.54,Belgium,Bank Transfer
+INV538180,2025-03-20 16:10:00,CUST1115,Wool Scarf,Apparel,6,12.44,0.1,67.18,Germany,Debit Card
+INV536559,2025-01-09 13:49:00,CUST1062,Ceramic Mug,Kitchenware,6,4.33,0,25.98,Ireland,PayPal
+INV540151,2025-06-15 18:55:00,CUST1064,Throw Pillow,Home Decor,11,7.69,0,84.59,United Kingdom,Bank Transfer
+INV538597,2025-04-06 16:20:00,CUST1073,Scented Candle,Home Decor,11,6.46,0,71.06,Spain,Credit Card
+INV538716,2025-04-12 17:10:00,CUST1061,Yoga Mat,Sports,1,14.77,0,14.77,Ireland,Debit Card
+INV536835,2025-01-21 10:55:00,CUST1060,Notebook Set,Stationery,6,3.19,0.05,18.18,Spain,Bank Transfer
+INV539794,2025-05-30 18:32:00,CUST1047,Throw Pillow,Home Decor,11,7.42,0,81.62,Belgium,PayPal
+INV537477,2025-02-17 19:52:00,CUST1098,Notebook Set,Stationery,11,3.09,0,33.99,Netherlands,PayPal
+INV539908,2025-06-04 12:25:00,CUST1084,Desk Organizer,Stationery,12,6.25,0,75.0,Spain,Debit Card
+INV537598,2025-02-22 18:05:00,CUST1046,Scented Candle,Home Decor,9,5.89,0,53.01,Spain,Bank Transfer
+INV536793,2025-01-19 11:36:00,CUST1108,Glass Vase,Home Decor,9,10.37,0,93.33,Belgium,Bank Transfer
+INV536514,2025-01-07 17:13:00,CUST1008,Ceramic Mug,Kitchenware,6,4.27,0,25.62,Ireland,PayPal
+INV538143,2025-03-18 14:52:00,CUST1050,Leather Wallet,Accessories,11,22.92,0.1,226.91,United Kingdom,Bank Transfer
+INV539068,2025-04-27 10:01:00,CUST1083,Coffee Beans 1kg,Grocery,2,10.21,0.1,18.38,Spain,PayPal
+INV536396,2025-01-02 14:00:00,CUST1049,Notebook Set,Stationery,7,3.46,0,24.22,Netherlands,Debit Card
+INV538323,2025-03-26 11:48:00,CUST1051,LED Desk Lamp,Electronics,2,19.22,0,38.44,Netherlands,PayPal
+INV537977,2025-03-11 13:44:00,CUST1064,Scented Candle,Home Decor,11,6.36,0,69.96,Netherlands,Credit Card
+INV539086,2025-04-27 09:47:00,CUST1070,Scented Candle,Home Decor,3,6.02,0,18.06,United Kingdom,Credit Card
+INV538901,2025-04-20 18:36:00,CUST1089,LED Desk Lamp,Electronics,10,16.88,0,168.8,France,PayPal
+INV536669,2025-01-13 11:35:00,CUST1041,Wireless Mouse,Electronics,10,14.57,0.05,138.41,Netherlands,Debit Card
+INV537733,2025-03-01 12:42:00,CUST1006,Notebook Set,Stationery,9,3.42,0.05,29.24,Netherlands,Credit Card
+INV539070,2025-04-27 18:44:00,CUST1074,Ceramic Mug,Kitchenware,3,4.58,0,13.74,Belgium,PayPal
+INV537519,2025-02-19 15:18:00,CUST1025,Leather Wallet,Accessories,2,20.06,0,40.12,France,Debit Card
+INV537989,2025-03-12 08:30:00,CUST1020,Scented Candle,Home Decor,9,6.41,0,57.69,Spain,Credit Card
+INV539736,2025-05-27 14:28:00,CUST1044,Bluetooth Speaker,Electronics,2,25.45,0,50.9,Belgium,PayPal
+INV540477,2025-06-29 13:42:00,CUST1118,Desk Organizer,Stationery,1,7.21,0,7.21,France,PayPal
+INV540490,2025-04-09 18:49:00,CUST1118,LED Desk Lamp,Electronics,200,15.0,0.9,300.0,Spain,Bank Transfer
+INV540348,2025-06-23 10:22:00,CUST1067,Leather Wallet,Accessories,3,19.87,0,59.61,Spain,Debit Card
+INV536476,2025-01-05 16:02:00,CUST1058,Throw Pillow,Home Decor,12,7.39,0.05,84.25,Germany,Bank Transfer
+INV538100,2025-03-16 14:54:00,CUST1012,Ceramic Mug,Kitchenware,1,4.39,0.05,4.17,Spain,Bank Transfer
+INV539428,2025-05-13 11:49:00,CUST1102,Wool Scarf,Apparel,9,11.17,0,100.53,Ireland,Debit Card
+INV540489,2025-01-29 08:28:00,CUST1051,Glass Vase,Home Decor,-300,18.5,0.0,-5550.0,France,Debit Card
+INV537129,2025-02-02 15:07:00,CUST1075,LED Desk Lamp,Electronics,11,19.13,0.1,189.39,Portugal,Bank Transfer
+INV537314,2025-02-10 15:47:00,CUST1052,Travel Mug,Kitchenware,2,5.86,0.05,11.13,Spain,Debit Card
+INV537345,2025-02-11 14:05:00,CUST1002,Wool Scarf,Apparel,7,11.41,0,79.87,Ireland,PayPal
+INV539654,2025-05-23 09:29:00,CUST1038,Notebook Set,Stationery,4,3.38,0,13.52,Belgium,Bank Transfer
+INV537329,2025-02-10 11:30:00,CUST1116,Wool Scarf,Apparel,9,10.94,0,98.46,Spain,Credit Card
+INV539480,2025-05-16 15:22:00,CUST1007,Yoga Mat,Sports,4,15.43,0,61.72,Ireland,Debit Card
+INV537008,2025-01-27 19:43:00,CUST1034,Scented Candle,Home Decor,4,6.02,0.1,21.67,Netherlands,Bank Transfer
+INV538074,2025-03-15 09:04:00,CUST1031,Leather Wallet,Accessories,9,21.74,0,195.66,France,Bank Transfer
+INV539649,2025-05-23 10:50:00,CUST1108,Glass Vase,Home Decor,3,10.36,0,31.08,France,PayPal
+INV539885,2025-06-02 19:19:00,CUST1017,Wool Scarf,Apparel,9,12.2,0,109.8,Belgium,PayPal
+INV538213,2025-03-21 11:09:00,CUST1036,Desk Organizer,Stationery,3,6.74,0,20.22,France,Debit Card
+INV537825,2025-03-05 11:06:00,CUST1085,Ceramic Mug,Kitchenware,1,4.82,0,4.82,Germany,Debit Card
+INV537278,2025-02-08 16:16:00,CUST1069,Notebook Set,Stationery,5,3.3,0.05,15.67,Spain,Credit Card
+INV536913,2025-01-24 19:18:00,CUST1003,Desk Organizer,Stationery,2,6.64,0.1,11.95,Spain,Debit Card
+INV540082,2025-06-12 17:37:00,CUST1047,Wireless Mouse,Electronics,3,13.63,0,40.89,United Kingdom,Credit Card
+INV539681,2025-05-24 11:14:00,CUST1073,Wool Scarf,Apparel,4,11.41,0,45.64,Germany,PayPal
+INV537801,2025-03-04 16:11:00,CUST1048,Glass Vase,Home Decor,2,9.35,0.05,17.76,Belgium,Credit Card
+INV539611,2025-05-21 13:32:00,CUST1077,Leather Wallet,Accessories,1,22.25,0,22.25,Belgium,PayPal
+INV538913,2025-04-20 16:27:00,CUST1027,Leather Wallet,Accessories,2,21.71,0,43.42,Spain,Bank Transfer
+INV538553,2025-04-05 16:58:00,CUST1117,Travel Mug,Kitchenware,5,5.51,0.1,24.79,United Kingdom,PayPal
+INV536973,2025-01-26 15:07:00,CUST1033,Scented Candle,Home Decor,8,6.48,0,51.84,Germany,Debit Card
+INV540290,2025-06-20 12:12:00,CUST1081,Yoga Mat,Sports,3,16.15,0,48.45,Netherlands,PayPal
+INV537852,2025-03-06 12:34:00,CUST1026,Scented Candle,Home Decor,2,6.19,0,12.38,Portugal,Bank Transfer
+INV537027,2025-01-28 08:39:00,CUST1109,Cotton T-Shirt,Apparel,11,8.01,0,88.11,Spain,PayPal
+INV536610,2025-01-11 15:01:00,CUST1011,Coffee Beans 1kg,Grocery,8,11.0,0,88.0,Belgium,Debit Card
+INV540287,2025-06-20 10:19:00,CUST1071,Wireless Mouse,Electronics,2,15.39,0,30.78,Portugal,PayPal
+INV539585,2025-05-20 08:38:00,CUST1099,Coffee Beans 1kg,Grocery,10,11.52,0,115.2,Netherlands,Credit Card
+INV537292,2025-02-09 19:05:00,CUST1091,Leather Wallet,Accessories,7,23.34,0.1,147.04,Germany,Bank Transfer
+INV537449,2025-02-16 09:00:00,CUST1076,Coffee Beans 1kg,Grocery,6,11.19,0,67.14,Germany,PayPal
+INV538315,2025-03-26 13:59:00,CUST1045,Wool Scarf,Apparel,10,11.41,0,114.1,Portugal,Debit Card
+INV538762,2025-04-14 10:18:00,CUST1081,Wool Scarf,Apparel,8,12.19,0.05,92.64,United Kingdom,Debit Card
+INV540121,2025-06-14 12:00:00,CUST1053,Coffee Beans 1kg,Grocery,1,10.28,0,10.28,Spain,Bank Transfer
+INV537167,2025-02-03 17:25:00,CUST1022,Yoga Mat,Sports,2,14.98,0,29.96,Portugal,Credit Card
+INV537038,2025-01-29 17:28:00,CUST1119,Coffee Beans 1kg,Grocery,6,11.35,0.1,61.29,Spain,Bank Transfer
+INV538522,2025-04-03 19:51:00,CUST1098,Glass Vase,Home Decor,6,9.28,0,55.68,United Kingdom,PayPal
+INV537660,2025-02-25 15:48:00,CUST1072,Travel Mug,Kitchenware,12,5.04,0,60.48,Portugal,PayPal
+INV540276,2025-06-20 15:09:00,CUST1115,Ceramic Mug,Kitchenware,10,4.92,0.1,44.28,Ireland,PayPal
+INV538960,2025-04-22 11:23:00,CUST1104,Desk Organizer,Stationery,9,6.5,0,58.5,Netherlands,PayPal
+INV538928,2025-04-21 18:01:00,CUST1083,Leather Wallet,Accessories,9,20.79,0,187.11,France,Credit Card
+INV539722,2025-05-26 15:53:00,CUST1118,Ceramic Mug,Kitchenware,12,4.48,0,53.76,Germany,PayPal
+INV540075,2025-06-12 14:27:00,CUST1004,Bluetooth Speaker,Electronics,3,27.07,0,81.21,United Kingdom,Credit Card
+INV539416,2025-05-13 11:45:00,CUST1031,Throw Pillow,Home Decor,7,6.71,0,46.97,Portugal,Bank Transfer
+INV540230,2025-06-18 18:37:00,CUST1090,Wool Scarf,Apparel,10,11.59,0.1,104.31,Portugal,Credit Card
+INV538785,2025-04-15 09:32:00,CUST1074,Throw Pillow,Home Decor,6,7.03,0,42.18,Netherlands,Bank Transfer
+INV536484,2025-01-06 12:46:00,CUST1038,Desk Organizer,Stationery,9,6.48,0,58.32,Portugal,PayPal
+INV537767,2025-03-02 08:13:00,CUST1001,Wireless Mouse,Electronics,2,12.81,0.05,24.34,Ireland,Debit Card
+INV537219,2025-02-06 09:06:00,CUST1021,Wool Scarf,Apparel,7,12.96,0,90.72,Netherlands,Credit Card
+INV537868,2025-03-06 17:35:00,CUST1040,Ceramic Mug,Kitchenware,10,4.89,0,48.9,Germany,Debit Card
+INV538328,2025-03-26 12:44:00,CUST1060,Ceramic Mug,Kitchenware,8,4.34,0,34.72,Belgium,Credit Card
+INV539972,2025-06-07 09:38:00,CUST1023,Leather Wallet,Accessories,7,21.31,0.05,141.71,Portugal,Debit Card
+INV540485,2025-03-02 17:29:00,CUST1050,Cotton T-Shirt,Apparel,500,25.0,0.0,12500.0,Ireland,Credit Card
+INV536906,2025-01-24 10:10:00,CUST1074,Ceramic Mug,Kitchenware,7,4.3,0,30.1,Netherlands,Credit Card
+INV537656,2025-02-24 11:04:00,CUST1018,Desk Organizer,Stationery,3,7.23,0.1,19.52,Germany,Debit Card
+INV537587,2025-02-21 16:28:00,CUST1102,Travel Mug,Kitchenware,10,5.71,0,57.1,Spain,Credit Card
+INV537012,2025-01-28 12:50:00,CUST1102,Ceramic Mug,Kitchenware,8,4.25,0.05,32.3,Portugal,Bank Transfer
+INV537176,2025-02-04 18:28:00,CUST1094,Scented Candle,Home Decor,12,5.83,0,69.96,Ireland,PayPal
+INV540135,2025-06-14 13:24:00,CUST1088,Travel Mug,Kitchenware,11,5.53,0.05,57.79,France,PayPal
+INV539503,2025-05-17 08:21:00,CUST1020,Coffee Beans 1kg,Grocery,5,11.12,0.1,50.04,Belgium,PayPal
+INV537713,2025-02-27 13:42:00,CUST1105,Wireless Mouse,Electronics,11,14.22,0,156.42,Spain,Credit Card
+INV536954,2025-01-26 11:51:00,CUST1061,Travel Mug,Kitchenware,1,5.72,0.05,5.43,Belgium,Bank Transfer
+INV539498,2025-05-17 08:59:00,CUST1024,Bluetooth Speaker,Electronics,12,24.59,0,295.08,Portugal,Bank Transfer
+INV538673,2025-04-10 10:12:00,CUST1077,Wireless Mouse,Electronics,3,13.13,0,39.39,France,Credit Card
+INV540273,2025-06-20 09:22:00,CUST1021,LED Desk Lamp,Electronics,8,17.83,0,142.64,Belgium,Debit Card
+INV538734,2025-04-13 10:05:00,CUST1045,Travel Mug,Kitchenware,7,5.93,0.05,39.43,Germany,PayPal
+INV540308,2025-06-21 15:26:00,CUST1008,Wireless Mouse,Electronics,11,12.76,0,140.36,Netherlands,Bank Transfer
+INV537343,2025-02-11 13:46:00,CUST1093,Ceramic Mug,Kitchenware,11,4.61,0.05,48.17,France,PayPal
+INV539782,2025-05-29 19:45:00,CUST1086,LED Desk Lamp,Electronics,3,19.76,0.05,56.32,Netherlands,Debit Card
+INV538778,2025-04-15 10:58:00,CUST1050,Cotton T-Shirt,Apparel,4,8.54,0.1,30.74,Belgium,Bank Transfer
+INV537204,2025-02-05 11:20:00,CUST1055,Ceramic Mug,Kitchenware,12,4.44,0,53.28,Ireland,PayPal
+INV536446,2025-01-04 09:50:00,CUST1072,Wool Scarf,Apparel,12,12.65,0.1,136.62,United Kingdom,Bank Transfer
+INV538854,2025-04-18 10:08:00,CUST1108,Throw Pillow,Home Decor,9,6.85,0.1,55.48,Spain,Debit Card
+INV539500,2025-05-17 16:30:00,CUST1005,Ceramic Mug,Kitchenware,9,4.7,0.1,38.07,France,Credit Card
+INV539059,2025-04-26 10:09:00,CUST1014,LED Desk Lamp,Electronics,1,17.98,0,17.98,Belgium,PayPal
+INV538821,2025-04-17 19:38:00,CUST1007,Leather Wallet,Accessories,9,22.06,0,198.54,Netherlands,Bank Transfer
+INV539622,2025-05-22 09:20:00,CUST1042,Wireless Mouse,Electronics,2,14.74,0,29.48,Spain,Credit Card
+INV536491,2025-01-06 16:02:00,CUST1079,Bluetooth Speaker,Electronics,11,26.09,0.05,272.64,Germany,PayPal
+INV539645,2025-05-23 11:49:00,CUST1119,Coffee Beans 1kg,Grocery,7,10.53,0,73.71,United Kingdom,PayPal
+INV537940,2025-03-09 16:20:00,CUST1078,Throw Pillow,Home Decor,5,7.73,0,38.65,Spain,PayPal
+INV538915,2025-04-21 16:02:00,CUST1090,Wireless Mouse,Electronics,12,12.86,0.1,138.89,United Kingdom,Bank Transfer
+INV536942,2025-01-25 09:32:00,CUST1082,Coffee Beans 1kg,Grocery,3,10.87,0,32.61,Netherlands,PayPal
+INV538273,2025-03-24 13:52:00,CUST1079,Notebook Set,Stationery,4,3.29,0,13.16,Portugal,PayPal
+INV539660,2025-05-23 12:59:00,CUST1087,Wireless Mouse,Electronics,12,15.34,0,184.08,Netherlands,Debit Card
+INV537664,2025-02-25 15:10:00,CUST1014,Desk Organizer,Stationery,11,6.64,0,73.04,Ireland,Credit Card
+INV540300,2025-06-20 10:52:00,CUST1023,Wool Scarf,Apparel,12,11.07,0.05,126.2,Belgium,Bank Transfer
+INV537855,2025-03-06 11:58:00,CUST1017,Wireless Mouse,Electronics,10,13.96,0,139.6,Ireland,Bank Transfer
+INV539809,2025-05-30 19:01:00,CUST1078,LED Desk Lamp,Electronics,10,20.15,0,201.5,Portugal,PayPal
+INV537732,2025-03-01 11:41:00,CUST1114,Scented Candle,Home Decor,11,6.33,0,69.63,Ireland,Bank Transfer
+INV539849,2025-06-01 11:35:00,CUST1110,Desk Organizer,Stationery,12,7.27,0.05,82.88,France,Debit Card
+INV539547,2025-05-19 17:33:00,CUST1019,Glass Vase,Home Decor,8,10.06,0.1,72.43,United Kingdom,Debit Card
+INV539859,2025-06-01 10:53:00,CUST1011,Leather Wallet,Accessories,4,24.01,0,96.04,Germany,Bank Transfer
+INV539005,2025-04-24 15:25:00,CUST1038,Glass Vase,Home Decor,5,9.84,0.05,46.74,Portugal,Debit Card
+INV539967,2025-06-06 13:08:00,CUST1010,Yoga Mat,Sports,3,13.64,0,40.92,Netherlands,Credit Card
+INV539706,2025-05-25 11:58:00,CUST1104,Travel Mug,Kitchenware,12,5.28,0.05,60.19,Ireland,Credit Card
+INV539941,2025-06-05 18:18:00,CUST1083,Coffee Beans 1kg,Grocery,6,11.77,0,70.62,France,Credit Card
+INV538303,2025-03-25 08:57:00,CUST1015,Glass Vase,Home Decor,7,10.05,0,70.35,Netherlands,PayPal
+INV540138,2025-06-14 16:21:00,CUST1054,Notebook Set,Stationery,1,3.16,0.1,2.84,Netherlands,Debit Card
+INV537039,2025-01-29 18:27:00,CUST1105,Coffee Beans 1kg,Grocery,6,11.76,0.05,67.03,Spain,PayPal
+INV536825,2025-01-21 09:59:00,CUST1013,LED Desk Lamp,Electronics,3,18.75,0.1,50.62,Germany,Bank Transfer
+INV539253,2025-05-05 10:35:00,CUST1089,Wool Scarf,Apparel,3,12.29,0.1,33.18,Spain,Credit Card
+INV539939,2025-06-05 15:14:00,CUST1086,Desk Organizer,Stationery,3,7.36,0.05,20.98,Germany,PayPal
+INV538356,2025-03-27 13:34:00,CUST1066,Yoga Mat,Sports,6,13.77,0.05,78.49,Germany,Bank Transfer
+INV540157,2025-06-15 14:59:00,CUST1089,Ceramic Mug,Kitchenware,11,4.35,0,47.85,Netherlands,Credit Card
+INV537894,2025-03-07 17:33:00,CUST1114,Notebook Set,Stationery,5,3.2,0,16.0,Belgium,Bank Transfer
+INV537187,2025-02-04 14:49:00,CUST1020,LED Desk Lamp,Electronics,2,19.58,0.1,35.24,United Kingdom,Debit Card
+INV540399,2025-06-25 18:36:00,CUST1093,Notebook Set,Stationery,11,3.3,0,36.3,Belgium,Bank Transfer
+INV540347,2025-06-23 16:03:00,CUST1117,Glass Vase,Home Decor,4,10.58,0,42.32,Portugal,PayPal
+INV537110,2025-02-01 10:07:00,CUST1047,Yoga Mat,Sports,5,14.15,0,70.75,United Kingdom,PayPal
+INV539946,2025-06-05 18:19:00,CUST1031,Desk Organizer,Stationery,2,6.83,0,13.66,Belgium,Bank Transfer
+INV539931,2025-06-05 13:53:00,CUST1045,Yoga Mat,Sports,11,16.21,0,178.31,Spain,PayPal
+INV536718,2025-01-16 11:29:00,CUST1014,Cotton T-Shirt,Apparel,9,7.5,0,67.5,Netherlands,Debit Card
+INV536624,2025-01-12 16:24:00,CUST1040,Coffee Beans 1kg,Grocery,4,11.13,0.05,42.29,France,Debit Card
+INV538902,2025-04-20 09:00:00,CUST1094,Cotton T-Shirt,Apparel,4,7.69,0,30.76,United Kingdom,Credit Card
+INV537735,2025-03-01 09:04:00,CUST1063,LED Desk Lamp,Electronics,5,17.62,0,88.1,Spain,PayPal
+INV539620,2025-05-22 15:20:00,CUST1058,Notebook Set,Stationery,12,3.08,0.05,35.11,Belgium,PayPal
+INV536566,2025-01-10 10:53:00,CUST1055,Wool Scarf,Apparel,3,11.45,0.1,30.91,Germany,PayPal
+INV538859,2025-04-18 09:08:00,CUST1053,Wireless Mouse,Electronics,5,14.61,0,73.05,Germany,Debit Card
+INV539333,2025-05-09 14:10:00,CUST1007,Leather Wallet,Accessories,2,24.06,0,48.12,Netherlands,PayPal
+INV539744,2025-05-27 13:55:00,CUST1101,Notebook Set,Stationery,9,3.34,0,30.06,France,PayPal
+INV537347,2025-02-12 16:12:00,CUST1062,Bluetooth Speaker,Electronics,11,22.98,0,252.78,Portugal,Debit Card
+INV538149,2025-03-18 13:22:00,CUST1078,Cotton T-Shirt,Apparel,3,8.55,0,25.65,Ireland,Bank Transfer
+INV537251,2025-02-07 18:44:00,CUST1088,Travel Mug,Kitchenware,11,5.83,0,64.13,Spain,Credit Card
+INV539266,2025-05-06 19:51:00,CUST1049,Ceramic Mug,Kitchenware,9,4.4,0.05,37.62,Spain,Debit Card
+INV540175,2025-06-16 18:46:00,CUST1081,Glass Vase,Home Decor,2,9.21,0,18.42,Portugal,Bank Transfer
+INV537856,2025-03-06 19:52:00,CUST1100,Wireless Mouse,Electronics,9,13.19,0,118.71,France,Credit Card
+INV539895,2025-06-03 09:49:00,CUST1056,Ceramic Mug,Kitchenware,2,4.88,0,9.76,Germany,Debit Card
+INV537033,2025-01-29 19:56:00,CUST1053,Yoga Mat,Sports,11,13.68,0.1,135.43,Spain,Credit Card
+INV537394,2025-02-14 15:06:00,CUST1018,Bluetooth Speaker,Electronics,9,25.41,0,228.69,Belgium,Debit Card
+INV538656,2025-04-10 09:15:00,CUST1102,Travel Mug,Kitchenware,7,5.47,0.1,34.46,Belgium,Debit Card
+INV538545,2025-04-04 16:30:00,CUST1063,Glass Vase,Home Decor,11,10.2,0,112.2,Ireland,PayPal
+INV537096,2025-01-31 16:26:00,CUST1067,Wool Scarf,Apparel,12,12.86,0,154.32,Ireland,PayPal
+INV538858,2025-04-18 18:58:00,CUST1104,Ceramic Mug,Kitchenware,1,4.13,0.1,3.72,France,PayPal
+INV536674,2025-01-14 15:10:00,CUST1093,Glass Vase,Home Decor,8,10.66,0.05,81.02,Spain,PayPal
+INV539588,2025-05-21 16:00:00,CUST1038,Notebook Set,Stationery,6,3.13,0,18.78,Spain,Credit Card
+INV538261,2025-03-24 12:53:00,CUST1109,Notebook Set,Stationery,1,3.2,0,3.2,Netherlands,PayPal
+INV539492,2025-05-17 12:07:00,CUST1069,Desk Organizer,Stationery,1,7.09,0,7.09,Netherlands,Credit Card
+INV540005,2025-06-08 13:06:00,CUST1056,Leather Wallet,Accessories,11,20.48,0,225.28,Netherlands,Credit Card
+INV540358,2025-06-23 17:36:00,CUST1082,Wireless Mouse,Electronics,12,13.38,0.05,152.53,Belgium,Bank Transfer
+INV538219,2025-03-21 11:25:00,CUST1018,Coffee Beans 1kg,Grocery,7,10.72,0,75.04,Portugal,Credit Card
+INV539157,2025-05-01 16:19:00,CUST1079,Throw Pillow,Home Decor,5,7.75,0.1,34.88,Portugal,Bank Transfer
+INV537738,2025-03-01 18:38:00,CUST1109,Glass Vase,Home Decor,1,10.54,0.1,9.49,United Kingdom,Credit Card
+INV537792,2025-03-03 17:07:00,CUST1055,Notebook Set,Stationery,1,3.25,0,3.25,Portugal,Bank Transfer
+INV539787,2025-05-29 19:58:00,CUST1013,Cotton T-Shirt,Apparel,6,7.51,0.1,40.55,Germany,Debit Card
+INV538237,2025-03-22 13:35:00,CUST1004,Wireless Mouse,Electronics,11,13.88,0,152.68,France,Credit Card
+INV537562,2025-02-21 18:41:00,CUST1100,Throw Pillow,Home Decor,12,7.76,0.05,88.46,Belgium,PayPal
+INV537447,2025-02-16 14:14:00,CUST1110,Travel Mug,Kitchenware,7,5.39,0.1,33.96,United Kingdom,Debit Card
+INV537059,2025-01-30 14:37:00,CUST1115,Leather Wallet,Accessories,12,24.17,0,290.04,United Kingdom,Bank Transfer
+INV539229,2025-05-04 10:05:00,CUST1055,Yoga Mat,Sports,5,15.36,0.1,69.12,Netherlands,Credit Card
+INV538385,2025-03-28 12:55:00,CUST1117,LED Desk Lamp,Electronics,5,17.17,0.05,81.56,France,PayPal
+INV538182,2025-03-20 11:23:00,CUST1018,Wool Scarf,Apparel,11,12.13,0,133.43,Ireland,Debit Card
+INV539032,2025-04-25 18:28:00,CUST1091,Scented Candle,Home Decor,2,5.42,0,10.84,Belgium,Debit Card
+INV539964,2025-06-06 11:26:00,CUST1107,Coffee Beans 1kg,Grocery,2,11.49,0.05,21.83,United Kingdom,PayPal
+INV537141,2025-02-02 14:22:00,CUST1028,Yoga Mat,Sports,9,14.77,0.05,126.28,France,Debit Card
+INV536934,2025-01-25 17:46:00,CUST1109,Scented Candle,Home Decor,3,5.84,0,17.52,Netherlands,PayPal
+INV537116,2025-02-01 16:20:00,CUST1098,Bluetooth Speaker,Electronics,4,23.46,0,93.84,Portugal,Credit Card
+INV537639,2025-02-24 11:34:00,CUST1092,Coffee Beans 1kg,Grocery,10,10.65,0.05,101.17,France,Credit Card
+INV539178,2025-05-01 14:52:00,CUST1048,Scented Candle,Home Decor,4,5.5,0,22.0,Ireland,Debit Card
+INV536675,2025-01-14 16:41:00,CUST1007,LED Desk Lamp,Electronics,12,18.67,0,224.04,United Kingdom,Credit Card
+INV537044,2025-01-29 17:58:00,CUST1027,Glass Vase,Home Decor,5,8.95,0.05,42.51,Germany,Bank Transfer
+INV540319,2025-06-22 13:06:00,CUST1104,Ceramic Mug,Kitchenware,3,4.27,0,12.81,United Kingdom,Debit Card
+INV537225,2025-02-06 10:22:00,CUST1036,Bluetooth Speaker,Electronics,5,26.35,0,131.75,Portugal,PayPal
+INV536389,2025-01-02 08:55:00,CUST1042,Wireless Mouse,Electronics,11,12.76,0,140.36,Germany,PayPal
+INV540343,2025-06-22 14:29:00,CUST1114,Bluetooth Speaker,Electronics,5,25.54,0,127.7,Germany,Bank Transfer
+INV538304,2025-03-25 09:58:00,CUST1081,Glass Vase,Home Decor,8,10.59,0,84.72,United Kingdom,Debit Card
+INV540191,2025-06-17 11:14:00,CUST1102,Coffee Beans 1kg,Grocery,9,10.37,0,93.33,Spain,Credit Card
+INV539055,2025-04-26 15:18:00,CUST1088,Scented Candle,Home Decor,2,5.95,0,11.9,United Kingdom,PayPal
+INV537137,2025-02-02 16:13:00,CUST1084,Wireless Mouse,Electronics,7,13.74,0.05,91.37,France,Debit Card
+INV537040,2025-01-29 19:16:00,CUST1046,Leather Wallet,Accessories,9,20.74,0.1,167.99,Portugal,Debit Card
+INV539390,2025-05-12 08:59:00,CUST1067,Travel Mug,Kitchenware,1,5.71,0.05,5.42,France,Debit Card
+INV540090,2025-06-12 19:43:00,CUST1089,Travel Mug,Kitchenware,6,6.04,0.1,32.62,Belgium,Debit Card
+INV538900,2025-04-20 10:18:00,CUST1013,Bluetooth Speaker,Electronics,5,23.15,0.05,109.96,Portugal,Bank Transfer
+INV537185,2025-02-04 10:21:00,CUST1008,Travel Mug,Kitchenware,4,5.79,0.1,20.84,Germany,Bank Transfer
+INV539852,2025-06-01 09:09:00,CUST1009,Ceramic Mug,Kitchenware,10,4.11,0.05,39.05,United Kingdom,PayPal
+INV538691,2025-04-11 11:08:00,CUST1019,Leather Wallet,Accessories,9,23.96,0.1,194.08,United Kingdom,Credit Card
+INV540251,2025-06-19 11:22:00,CUST1015,Scented Candle,Home Decor,2,5.47,0.05,10.39,France,Debit Card
+INV536380,2025-01-01 12:35:00,CUST1110,Throw Pillow,Home Decor,10,8.13,0.1,73.17,United Kingdom,Credit Card
+INV537513,2025-02-19 13:02:00,CUST1008,Wool Scarf,Apparel,11,12.76,0.1,126.32,Ireland,Debit Card
+INV539366,2025-05-10 12:24:00,CUST1013,LED Desk Lamp,Electronics,11,19.81,0.05,207.01,France,Credit Card
+INV539093,2025-04-28 11:56:00,CUST1111,Travel Mug,Kitchenware,4,5.15,0.1,18.54,Belgium,PayPal
+INV538798,2025-04-16 12:34:00,CUST1102,Wireless Mouse,Electronics,2,12.86,0.1,23.15,Belgium,Credit Card
+INV539930,2025-06-05 17:14:00,CUST1041,Ceramic Mug,Kitchenware,10,4.79,0,47.9,Germany,Credit Card
+INV539471,2025-05-15 18:20:00,CUST1106,Ceramic Mug,Kitchenware,10,4.6,0.05,43.7,Belgium,Bank Transfer
+INV538617,2025-04-07 14:30:00,CUST1068,Yoga Mat,Sports,4,15.55,0,62.2,Germany,PayPal
+INV540177,2025-06-16 13:35:00,CUST1002,Notebook Set,Stationery,3,3.22,0,9.66,Spain,Debit Card
+INV540248,2025-06-19 16:30:00,CUST1004,Wool Scarf,Apparel,4,12.05,0.05,45.79,Portugal,Debit Card
+INV540205,2025-06-17 16:01:00,CUST1087,Notebook Set,Stationery,7,3.47,0,24.29,Spain,PayPal
+INV538577,2025-04-06 14:36:00,CUST1013,Ceramic Mug,Kitchenware,7,4.51,0,31.57,Portugal,Debit Card
+INV539549,2025-05-19 19:38:00,CUST1079,Ceramic Mug,Kitchenware,8,4.34,0.1,31.25,Germany,PayPal
+INV539862,2025-06-01 08:04:00,CUST1050,Desk Organizer,Stationery,6,6.17,0,37.02,France,Debit Card
+INV537293,2025-02-09 15:27:00,CUST1026,Glass Vase,Home Decor,2,9.88,0.1,17.78,Spain,Credit Card
+INV537171,2025-02-03 08:32:00,CUST1090,Wireless Mouse,Electronics,6,15.13,0.1,81.7,Portugal,Debit Card
+INV539590,2025-05-21 17:16:00,CUST1086,Yoga Mat,Sports,11,15.42,0,169.62,United Kingdom,Bank Transfer
+INV539657,2025-05-23 17:48:00,CUST1020,Desk Organizer,Stationery,10,6.98,0,69.8,France,Debit Card
+INV536958,2025-01-26 14:23:00,CUST1013,Scented Candle,Home Decor,4,6.23,0,24.92,France,Debit Card
+INV536939,2025-01-25 18:53:00,CUST1035,Ceramic Mug,Kitchenware,11,4.34,0.1,42.97,Netherlands,PayPal
+INV537302,2025-02-09 10:01:00,CUST1033,Scented Candle,Home Decor,1,5.64,0,5.64,Netherlands,PayPal
+INV537734,2025-03-01 09:07:00,CUST1058,Desk Organizer,Stationery,3,6.97,0.1,18.82,Germany,Credit Card
+INV536994,2025-01-27 09:10:00,CUST1043,Scented Candle,Home Decor,10,6.09,0,60.9,Ireland,Bank Transfer
+INV538109,2025-03-16 09:26:00,CUST1008,Wool Scarf,Apparel,1,11.64,0,11.64,Germany,Debit Card
+INV538181,2025-03-20 13:29:00,CUST1118,Notebook Set,Stationery,10,2.98,0.1,26.82,Belgium,Debit Card
+INV537609,2025-02-23 19:07:00,CUST1051,Yoga Mat,Sports,9,15.56,0.1,126.04,United Kingdom,PayPal
+INV539877,2025-06-02 16:02:00,CUST1022,Coffee Beans 1kg,Grocery,2,11.5,0,23.0,Ireland,Bank Transfer
+INV538309,2025-03-25 08:42:00,CUST1034,Wireless Mouse,Electronics,8,13.17,0,105.36,Ireland,PayPal
+INV537888,2025-03-07 19:10:00,CUST1009,Travel Mug,Kitchenware,1,5.87,0,5.87,France,Debit Card
+INV536721,2025-01-16 13:44:00,CUST1018,Wool Scarf,Apparel,4,11.53,0,46.12,Belgium,Debit Card
+INV537048,2025-01-29 16:36:00,CUST1019,Ceramic Mug,Kitchenware,5,4.52,0,22.6,Spain,PayPal
+INV539270,2025-05-06 10:08:00,CUST1030,Coffee Beans 1kg,Grocery,10,10.96,0,109.6,Spain,Bank Transfer
+INV536709,2025-01-16 19:36:00,CUST1028,Coffee Beans 1kg,Grocery,12,11.04,0.1,119.23,Portugal,Bank Transfer
+INV539573,2025-05-20 17:54:00,CUST1117,Notebook Set,Stationery,11,3.23,0,35.53,Portugal,PayPal
+INV539137,2025-04-30 19:54:00,CUST1040,LED Desk Lamp,Electronics,11,19.76,0,217.36,Germany,Debit Card
+INV536653,2025-01-13 14:05:00,CUST1087,Desk Organizer,Stationery,7,6.73,0.05,44.75,France,Bank Transfer
+INV538865,2025-04-18 12:57:00,CUST1089,Scented Candle,Home Decor,1,5.41,0.05,5.14,Germany,Bank Transfer
+INV537617,2025-02-23 08:06:00,CUST1055,Desk Organizer,Stationery,12,6.37,0,76.44,Portugal,PayPal
+INV537763,2025-03-02 15:07:00,CUST1016,Wireless Mouse,Electronics,3,15.19,0.1,41.01,Spain,PayPal
+INV540215,2025-06-17 16:24:00,CUST1104,Coffee Beans 1kg,Grocery,1,11.34,0,11.34,Ireland,Credit Card
+INV540260,2025-06-19 10:33:00,CUST1102,LED Desk Lamp,Electronics,6,17.95,0,107.7,United Kingdom,Bank Transfer
+INV538634,2025-04-08 16:29:00,CUST1103,Glass Vase,Home Decor,6,9.66,0.1,52.16,United Kingdom,Debit Card
+INV539959,2025-06-06 12:40:00,CUST1008,Scented Candle,Home Decor,12,5.95,0,71.4,France,PayPal
+INV537108,2025-02-01 17:24:00,CUST1023,Scented Candle,Home Decor,9,6.41,0.1,51.92,Germany,Bank Transfer
+INV539515,2025-05-17 09:00:00,CUST1110,Glass Vase,Home Decor,1,9.99,0.1,8.99,Ireland,Credit Card
+INV539309,2025-05-08 13:47:00,CUST1097,Bluetooth Speaker,Electronics,8,23.73,0,189.84,Germany,PayPal
+INV538283,2025-03-24 09:59:00,CUST1008,Wireless Mouse,Electronics,12,14.6,0.05,166.44,France,PayPal
+INV537380,2025-02-13 16:26:00,CUST1100,Bluetooth Speaker,Electronics,11,25.82,0,284.02,Ireland,PayPal
+INV537083,2025-01-31 15:37:00,CUST1114,Throw Pillow,Home Decor,6,7.33,0,43.98,Ireland,Debit Card
+INV540220,2025-06-18 15:43:00,CUST1006,Bluetooth Speaker,Electronics,11,27.49,0.1,272.15,Germany,Credit Card
+INV537072,2025-01-30 08:48:00,CUST1078,LED Desk Lamp,Electronics,4,17.05,0,68.2,Netherlands,PayPal
+INV537349,2025-02-12 16:21:00,CUST1059,Throw Pillow,Home Decor,11,7.29,0,80.19,Ireland,PayPal
+INV536553,2025-01-09 19:28:00,CUST1056,Coffee Beans 1kg,Grocery,11,10.28,0,113.08,France,Bank Transfer
+INV539524,2025-05-18 10:07:00,CUST1063,LED Desk Lamp,Electronics,3,18.86,0,56.58,Portugal,Credit Card
+INV539435,2025-05-14 15:46:00,CUST1068,Wireless Mouse,Electronics,3,14.79,0,44.37,Germany,Debit Card
+INV540027,2025-06-09 19:24:00,CUST1055,Scented Candle,Home Decor,3,5.69,0.05,16.22,Belgium,PayPal
+INV540281,2025-06-20 17:08:00,CUST1005,Ceramic Mug,Kitchenware,10,4.17,0,41.7,Germany,PayPal
+INV540404,2025-06-25 19:46:00,CUST1019,Wireless Mouse,Electronics,3,13.36,0.05,38.08,Ireland,Bank Transfer
+INV537453,2025-02-16 08:15:00,CUST1064,Bluetooth Speaker,Electronics,1,25.09,0,25.09,United Kingdom,Debit Card
+INV540158,2025-06-15 13:26:00,CUST1056,Wool Scarf,Apparel,10,12.46,0.1,112.14,France,Bank Transfer
+INV537558,2025-02-21 10:48:00,CUST1084,Scented Candle,Home Decor,9,5.69,0,51.21,Germany,Credit Card
+INV540492,2025-04-11 08:59:00,CUST1102,Wireless Mouse,Electronics,600,0.01,0.0,6.0,Netherlands,PayPal
+INV537003,2025-01-27 09:28:00,CUST1039,Desk Organizer,Stationery,6,6.78,0,40.68,Spain,Debit Card
+INV537487,2025-02-18 18:35:00,CUST1022,Scented Candle,Home Decor,5,5.51,0,27.55,United Kingdom,Debit Card
+INV536865,2025-01-22 12:39:00,CUST1077,Throw Pillow,Home Decor,11,6.81,0.1,67.42,France,Debit Card
+INV538498,2025-04-03 12:44:00,CUST1012,Wool Scarf,Apparel,5,12.53,0.1,56.38,Netherlands,Bank Transfer
+INV537608,2025-02-23 14:43:00,CUST1065,Coffee Beans 1kg,Grocery,8,11.68,0,93.44,France,Debit Card
+INV538735,2025-04-13 08:02:00,CUST1007,Travel Mug,Kitchenware,3,5.72,0.05,16.3,Netherlands,Debit Card
+INV538438,2025-03-31 15:08:00,CUST1104,Scented Candle,Home Decor,7,6.34,0,44.38,Spain,Debit Card
+INV537962,2025-03-11 19:47:00,CUST1022,Bluetooth Speaker,Electronics,1,25.56,0,25.56,France,Credit Card
+INV538638,2025-04-08 10:54:00,CUST1079,Leather Wallet,Accessories,9,21.97,0.1,177.96,Belgium,Debit Card
+INV538241,2025-03-22 18:05:00,CUST1103,Glass Vase,Home Decor,5,8.94,0.05,42.46,Spain,Credit Card
+INV540004,2025-06-08 09:09:00,CUST1061,Scented Candle,Home Decor,10,6.5,0.1,58.5,Netherlands,PayPal
+INV540079,2025-06-12 15:28:00,CUST1054,Throw Pillow,Home Decor,7,6.77,0,47.39,Germany,Debit Card
+INV540480,2025-06-29 17:39:00,CUST1092,Scented Candle,Home Decor,9,6.16,0.1,49.9,Ireland,Credit Card
+INV537135,2025-02-02 08:00:00,CUST1090,Travel Mug,Kitchenware,5,5.02,0.1,22.59,Spain,Credit Card
+INV538992,2025-04-24 13:27:00,CUST1034,Wool Scarf,Apparel,10,12.64,0,126.4,United Kingdom,Credit Card
+INV539267,2025-05-06 17:56:00,CUST1056,LED Desk Lamp,Electronics,3,17.67,0,53.01,Belgium,Debit Card
+INV539637,2025-05-22 19:23:00,CUST1008,Notebook Set,Stationery,3,3.07,0.05,8.75,Spain,Bank Transfer
+INV536784,2025-01-19 10:05:00,CUST1115,Wool Scarf,Apparel,4,12.97,0.05,49.29,Spain,Credit Card
+INV539212,2025-05-03 15:13:00,CUST1078,Bluetooth Speaker,Electronics,10,27.33,0,273.3,Portugal,Credit Card
+INV536390,2025-01-02 10:46:00,CUST1119,Glass Vase,Home Decor,11,9.72,0.1,96.23,Portugal,PayPal
+INV540277,2025-06-20 14:03:00,CUST1101,Throw Pillow,Home Decor,9,7.71,0,69.39,Germany,Bank Transfer
+INV536806,2025-01-20 19:26:00,CUST1021,Wireless Mouse,Electronics,1,12.73,0.05,12.09,Belgium,Debit Card
+INV537691,2025-02-26 10:01:00,CUST1075,Throw Pillow,Home Decor,12,7.41,0.1,80.03,Belgium,Debit Card
+INV536493,2025-01-06 08:20:00,CUST1101,Yoga Mat,Sports,3,15.58,0,46.74,United Kingdom,Bank Transfer
+INV538258,2025-03-24 14:01:00,CUST1111,LED Desk Lamp,Electronics,3,19.38,0.05,55.23,France,Bank Transfer
+INV537904,2025-03-08 18:49:00,CUST1009,Glass Vase,Home Decor,8,10.0,0.1,72.0,Spain,Credit Card
+INV536814,2025-01-20 09:30:00,CUST1108,Wool Scarf,Apparel,1,11.3,0,11.3,Germany,Bank Transfer
+INV537190,2025-02-04 17:11:00,CUST1091,Notebook Set,Stationery,3,3.27,0,9.81,Portugal,Credit Card
+INV539442,2025-05-14 08:42:00,CUST1108,Travel Mug,Kitchenware,5,5.88,0,29.4,United Kingdom,Debit Card
+INV539053,2025-04-26 10:05:00,CUST1011,Leather Wallet,Accessories,2,23.3,0,46.6,United Kingdom,Credit Card
+INV536630,2025-01-12 16:44:00,CUST1034,Notebook Set,Stationery,4,3.41,0,13.64,France,Credit Card
+INV539363,2025-05-10 11:57:00,CUST1057,Leather Wallet,Accessories,5,22.62,0.1,101.79,Spain,Credit Card
+INV536685,2025-01-14 10:59:00,CUST1108,Desk Organizer,Stationery,9,6.89,0,62.01,Spain,Credit Card
+INV538663,2025-04-10 14:23:00,CUST1101,Coffee Beans 1kg,Grocery,11,10.65,0.1,105.44,Spain,Bank Transfer
+INV537134,2025-02-02 08:39:00,CUST1065,Wireless Mouse,Electronics,6,15.37,0.1,83.0,Belgium,PayPal
+INV538994,2025-04-24 10:01:00,CUST1032,Cotton T-Shirt,Apparel,3,7.3,0,21.9,France,Debit Card
+INV538899,2025-04-20 08:04:00,CUST1063,Bluetooth Speaker,Electronics,1,23.59,0,23.59,Ireland,Debit Card
+INV539357,2025-05-10 12:54:00,CUST1031,Cotton T-Shirt,Apparel,4,7.51,0,30.04,Belgium,PayPal
+INV539621,2025-05-22 08:51:00,CUST1062,Notebook Set,Stationery,6,3.11,0.05,17.73,Portugal,PayPal
+INV537155,2025-02-03 19:48:00,CUST1118,Yoga Mat,Sports,7,14.93,0.05,99.28,Ireland,Debit Card
+INV537194,2025-02-04 08:41:00,CUST1046,LED Desk Lamp,Electronics,3,19.13,0,57.39,Netherlands,PayPal
+INV536460,2025-01-05 18:55:00,CUST1096,Ceramic Mug,Kitchenware,1,4.55,0,4.55,Portugal,Credit Card
+INV540491,2025-03-01 03:49:00,CUST1057,Scented Candle,Home Decor,150,25.0,0.0,3750.0,Spain,Credit Card
+INV538715,2025-04-12 19:49:00,CUST1019,Travel Mug,Kitchenware,1,5.24,0,5.24,United Kingdom,PayPal
+INV540216,2025-06-17 18:21:00,CUST1101,Notebook Set,Stationery,11,2.98,0,32.78,Belgium,Bank Transfer
+INV536449,2025-01-04 17:51:00,CUST1117,Throw Pillow,Home Decor,3,7.75,0,23.25,Portugal,Debit Card
+INV539952,2025-06-06 14:49:00,CUST1061,Cotton T-Shirt,Apparel,6,7.91,0.05,45.09,Germany,Credit Card
+INV540488,2025-04-29 18:57:00,CUST1082,Bluetooth Speaker,Electronics,1,1200.0,0.0,1200.0,Netherlands,Bank Transfer
+INV536548,2025-01-09 18:19:00,CUST1101,LED Desk Lamp,Electronics,8,16.9,0.05,128.44,Netherlands,Credit Card
+INV536665,2025-01-13 18:05:00,CUST1118,Throw Pillow,Home Decor,4,7.04,0,28.16,Portugal,Bank Transfer
+INV539271,2025-05-06 19:26:00,CUST1112,Cotton T-Shirt,Apparel,4,7.69,0,30.76,Belgium,PayPal
+INV539991,2025-06-07 08:20:00,CUST1020,Leather Wallet,Accessories,10,21.77,0.1,195.93,France,Credit Card
+INV539460,2025-05-15 10:10:00,CUST1052,Glass Vase,Home Decor,3,9.95,0.05,28.36,France,Credit Card
+INV536802,2025-01-20 10:46:00,CUST1000,Glass Vase,Home Decor,12,10.12,0,121.44,Belgium,Credit Card
+INV540486,2025-05-26 08:41:00,CUST1000,Wireless Mouse,Electronics,800,22.0,0.0,17600.0,Portugal,PayPal
+INV538917,2025-04-21 16:17:00,CUST1042,Coffee Beans 1kg,Grocery,10,10.96,0,109.6,Netherlands,Credit Card
+INV537649,2025-02-24 12:46:00,CUST1017,Bluetooth Speaker,Electronics,2,27.23,0.1,49.01,Belgium,Bank Transfer
+INV539961,2025-06-06 09:15:00,CUST1031,Yoga Mat,Sports,3,13.72,0,41.16,Netherlands,Debit Card
+INV538186,2025-03-20 09:20:00,CUST1071,Throw Pillow,Home Decor,2,7.39,0.05,14.04,Portugal,Debit Card
+INV538444,2025-03-31 17:12:00,CUST1055,Desk Organizer,Stationery,9,7.47,0.1,60.51,United Kingdom,Debit Card
+INV539328,2025-05-09 14:28:00,CUST1007,Notebook Set,Stationery,11,3.3,0,36.3,Portugal,Debit Card
+INV536840,2025-01-21 12:13:00,CUST1059,Desk Organizer,Stationery,7,7.28,0.05,48.41,Netherlands,Debit Card
+INV536568,2025-01-10 13:59:00,CUST1012,Throw Pillow,Home Decor,2,7.21,0,14.42,Spain,PayPal
+INV538986,2025-04-23 12:25:00,CUST1087,Wool Scarf,Apparel,11,11.08,0,121.88,Portugal,Bank Transfer
+INV537445,2025-02-16 10:03:00,CUST1117,Ceramic Mug,Kitchenware,1,4.39,0,4.39,Portugal,Credit Card
+INV539542,2025-05-18 11:48:00,CUST1020,Travel Mug,Kitchenware,9,5.96,0,53.64,Belgium,Debit Card
+INV540055,2025-06-11 08:46:00,CUST1107,Notebook Set,Stationery,6,3.21,0,19.26,Germany,Credit Card
+INV536735,2025-01-17 18:50:00,CUST1112,Scented Candle,Home Decor,7,5.85,0,40.95,Germany,Debit Card
+INV538112,2025-03-17 11:08:00,CUST1028,Yoga Mat,Sports,12,15.99,0.1,172.69,France,PayPal
+INV537673,2025-02-25 16:36:00,CUST1099,Throw Pillow,Home Decor,2,7.52,0.05,14.29,Ireland,Credit Card
+INV536647,2025-01-13 16:12:00,CUST1073,Desk Organizer,Stationery,10,6.27,0.1,56.43,France,PayPal
+INV536842,2025-01-21 12:40:00,CUST1041,Scented Candle,Home Decor,2,5.98,0,11.96,Netherlands,Bank Transfer
+INV537690,2025-02-26 19:22:00,CUST1016,Coffee Beans 1kg,Grocery,4,10.59,0.05,40.24,Germany,Bank Transfer
+INV537444,2025-02-16 18:28:00,CUST1074,Cotton T-Shirt,Apparel,10,8.19,0,81.9,Germany,Credit Card
+INV538976,2025-04-23 15:02:00,CUST1065,Throw Pillow,Home Decor,2,8.0,0.1,14.4,France,Debit Card
+INV540288,2025-06-20 13:38:00,CUST1010,Leather Wallet,Accessories,7,20.5,0,143.5,Ireland,Credit Card
+INV538750,2025-04-13 16:38:00,CUST1064,Scented Candle,Home Decor,12,6.3,0.1,68.04,Portugal,PayPal
+INV537057,2025-01-30 12:28:00,CUST1060,Travel Mug,Kitchenware,5,4.97,0,24.85,United Kingdom,Bank Transfer
+INV538903,2025-04-20 13:15:00,CUST1000,Scented Candle,Home Decor,7,6.41,0,44.87,Belgium,Bank Transfer
+INV537275,2025-02-08 11:40:00,CUST1017,Wool Scarf,Apparel,2,11.4,0.05,21.66,United Kingdom,Credit Card
+INV539950,2025-06-06 18:39:00,CUST1010,Coffee Beans 1kg,Grocery,2,11.75,0,23.5,United Kingdom,Debit Card
+INV538351,2025-03-27 19:58:00,CUST1016,Yoga Mat,Sports,10,16.01,0,160.1,Portugal,Debit Card
+INV537383,2025-02-13 08:42:00,CUST1118,Cotton T-Shirt,Apparel,3,7.89,0.05,22.49,France,Credit Card
+INV538368,2025-03-28 09:21:00,CUST1079,Ceramic Mug,Kitchenware,11,4.56,0,50.16,Netherlands,Bank Transfer
+INV539114,2025-04-29 10:25:00,CUST1017,Bluetooth Speaker,Electronics,3,23.09,0,69.27,Portugal,Credit Card
+INV537334,2025-02-11 16:20:00,CUST1055,Desk Organizer,Stationery,5,6.95,0,34.75,France,Bank Transfer
+INV539298,2025-05-07 18:43:00,CUST1045,Scented Candle,Home Decor,8,5.42,0.05,41.19,Germany,Debit Card
+INV537395,2025-02-14 15:13:00,CUST1057,Wool Scarf,Apparel,2,10.95,0,21.9,Germany,Bank Transfer
+INV537032,2025-01-28 08:59:00,CUST1117,Bluetooth Speaker,Electronics,4,25.53,0,102.12,Ireland,Debit Card
+INV540352,2025-06-23 10:23:00,CUST1104,Travel Mug,Kitchenware,2,5.11,0,10.22,Netherlands,Bank Transfer
+INV536998,2025-01-27 15:35:00,CUST1006,LED Desk Lamp,Electronics,7,17.03,0,119.21,United Kingdom,Debit Card
+INV539217,2025-05-03 11:26:00,CUST1006,Travel Mug,Kitchenware,1,5.45,0,5.45,France,PayPal
+INV539154,2025-04-30 17:35:00,CUST1043,Wireless Mouse,Electronics,1,12.91,0.1,11.62,Portugal,PayPal
+INV539159,2025-05-01 08:11:00,CUST1018,Coffee Beans 1kg,Grocery,12,10.14,0.1,109.51,Germany,Debit Card
+INV537446,2025-02-16 09:43:00,CUST1007,Glass Vase,Home Decor,10,10.0,0,100.0,United Kingdom,Bank Transfer
+INV537739,2025-03-01 17:34:00,CUST1000,Bluetooth Speaker,Electronics,6,24.92,0.1,134.57,France,Bank Transfer
+INV538751,2025-04-14 16:40:00,CUST1075,Wool Scarf,Apparel,8,13.11,0.1,94.39,Netherlands,Credit Card
+INV537439,2025-02-16 15:20:00,CUST1000,Ceramic Mug,Kitchenware,5,4.88,0.1,21.96,Belgium,PayPal
+INV537371,2025-02-13 12:15:00,CUST1026,Wool Scarf,Apparel,7,13.06,0.05,86.85,United Kingdom,Credit Card
+INV540380,2025-06-24 08:36:00,CUST1095,Yoga Mat,Sports,1,15.01,0.05,14.26,Netherlands,Credit Card
+INV537899,2025-03-08 16:51:00,CUST1024,Leather Wallet,Accessories,1,24.02,0.1,21.62,United Kingdom,Debit Card
+INV538022,2025-03-13 16:47:00,CUST1062,Throw Pillow,Home Decor,1,7.77,0,7.77,Ireland,Debit Card
+INV536688,2025-01-14 13:38:00,CUST1098,Wool Scarf,Apparel,7,11.36,0,79.52,Belgium,Bank Transfer
+INV536597,2025-01-11 10:20:00,CUST1082,Cotton T-Shirt,Apparel,7,8.52,0,59.64,Germany,Debit Card
+INV536750,2025-01-17 16:38:00,CUST1065,Travel Mug,Kitchenware,11,5.91,0,65.01,Ireland,Debit Card
+INV536909,2025-01-24 10:33:00,CUST1008,Cotton T-Shirt,Apparel,12,7.71,0,92.52,France,Debit Card
+INV540152,2025-06-15 16:00:00,CUST1009,Ceramic Mug,Kitchenware,4,4.23,0,16.92,Spain,PayPal
+INV537179,2025-02-04 11:51:00,CUST1083,Cotton T-Shirt,Apparel,12,7.27,0,87.24,Portugal,PayPal
+INV538593,2025-04-06 18:07:00,CUST1018,Travel Mug,Kitchenware,1,5.94,0.05,5.64,Belgium,Bank Transfer
+INV537768,2025-03-02 13:13:00,CUST1104,Travel Mug,Kitchenware,7,5.16,0,36.12,Spain,Bank Transfer
+INV536715,2025-01-16 11:51:00,CUST1051,Bluetooth Speaker,Electronics,9,24.63,0.05,210.59,France,PayPal
+INV538240,2025-03-22 19:16:00,CUST1070,Wireless Mouse,Electronics,6,12.97,0,77.82,Ireland,Debit Card
+INV538285,2025-03-24 15:25:00,CUST1069,Wool Scarf,Apparel,7,11.62,0,81.34,United Kingdom,Debit Card
+INV536738,2025-01-17 12:21:00,CUST1070,Throw Pillow,Home Decor,4,7.39,0,29.56,France,Debit Card
+INV539830,2025-05-31 09:43:00,CUST1027,Throw Pillow,Home Decor,7,7.98,0,55.86,Spain,PayPal
+INV539739,2025-05-27 08:42:00,CUST1005,Glass Vase,Home Decor,7,10.48,0.05,69.69,Germany,Bank Transfer
+INV540188,2025-06-16 17:51:00,CUST1099,Throw Pillow,Home Decor,12,6.89,0,82.68,Ireland,Debit Card
+INV537169,2025-02-03 19:16:00,CUST1099,Wool Scarf,Apparel,1,10.98,0.1,9.88,Portugal,Credit Card
+INV539476,2025-05-16 14:06:00,CUST1119,Scented Candle,Home Decor,1,5.94,0.05,5.64,Belgium,Bank Transfer
+INV538036,2025-03-13 08:47:00,CUST1004,Travel Mug,Kitchenware,3,5.22,0,15.66,Belgium,Debit Card
+INV537524,2025-02-19 11:08:00,CUST1011,Wool Scarf,Apparel,4,10.93,0,43.72,France,PayPal
+INV539408,2025-05-12 17:49:00,CUST1028,Bluetooth Speaker,Electronics,10,25.52,0,255.2,Portugal,Credit Card
+INV538012,2025-03-12 19:51:00,CUST1006,Glass Vase,Home Decor,10,9.78,0,97.8,Spain,Debit Card
+INV536965,2025-01-26 08:49:00,CUST1104,Leather Wallet,Accessories,11,22.09,0.1,218.69,France,Debit Card
+INV539260,2025-05-05 12:24:00,CUST1092,Cotton T-Shirt,Apparel,6,7.56,0,45.36,United Kingdom,Bank Transfer
+INV536577,2025-01-10 18:29:00,CUST1089,Ceramic Mug,Kitchenware,6,4.54,0,27.24,Portugal,PayPal
+INV536538,2025-01-09 08:31:00,CUST1095,Cotton T-Shirt,Apparel,5,7.66,0,38.3,Belgium,PayPal
+INV539737,2025-05-27 10:54:00,CUST1023,Bluetooth Speaker,Electronics,6,26.39,0,158.34,Portugal,Credit Card
+INV538909,2025-04-20 12:29:00,CUST1059,Bluetooth Speaker,Electronics,6,25.1,0,150.6,United Kingdom,PayPal
+INV539277,2025-05-06 16:01:00,CUST1051,Coffee Beans 1kg,Grocery,9,10.51,0.05,89.86,Belgium,Bank Transfer
+INV536488,2025-01-06 13:55:00,CUST1012,Ceramic Mug,Kitchenware,3,4.5,0.1,12.15,Portugal,Credit Card
+INV538829,2025-04-17 18:55:00,CUST1071,Desk Organizer,Stationery,1,6.81,0.1,6.13,Portugal,Debit Card
+INV539924,2025-06-04 10:58:00,CUST1059,Glass Vase,Home Decor,4,9.44,0,37.76,Netherlands,PayPal
+INV537943,2025-03-10 09:00:00,CUST1039,Bluetooth Speaker,Electronics,7,23.4,0.05,155.61,Ireland,PayPal
+INV538140,2025-03-18 14:42:00,CUST1034,Notebook Set,Stationery,10,3.2,0.1,28.8,Germany,Debit Card
+INV538824,2025-04-17 16:41:00,CUST1028,LED Desk Lamp,Electronics,5,17.14,0,85.7,Portugal,PayPal
+INV540282,2025-06-20 11:14:00,CUST1090,Coffee Beans 1kg,Grocery,12,11.49,0,137.88,France,Debit Card
+INV539108,2025-04-28 12:04:00,CUST1097,Cotton T-Shirt,Apparel,10,7.86,0.1,70.74,Portugal,Debit Card
+INV537647,2025-02-24 12:59:00,CUST1017,Coffee Beans 1kg,Grocery,4,10.54,0,42.16,Netherlands,Credit Card
+INV539300,2025-05-07 12:52:00,CUST1018,Bluetooth Speaker,Electronics,1,26.18,0.05,24.87,Belgium,Credit Card
+INV538029,2025-03-13 14:26:00,CUST1024,Scented Candle,Home Decor,2,5.86,0.05,11.13,United Kingdom,PayPal
+INV537424,2025-02-15 19:35:00,CUST1035,Wool Scarf,Apparel,7,12.48,0,87.36,Belgium,PayPal
+INV538703,2025-04-12 09:07:00,CUST1048,Wool Scarf,Apparel,10,12.65,0,126.5,Belgium,Credit Card
+INV536792,2025-01-19 11:10:00,CUST1012,Cotton T-Shirt,Apparel,8,8.05,0.1,57.96,Ireland,PayPal
+INV538605,2025-04-07 12:25:00,CUST1020,Ceramic Mug,Kitchenware,8,4.45,0.1,32.04,United Kingdom,Debit Card
+INV538575,2025-04-05 14:09:00,CUST1087,Throw Pillow,Home Decor,10,6.79,0,67.9,Portugal,Credit Card
+INV537816,2025-03-05 19:51:00,CUST1013,Bluetooth Speaker,Electronics,11,23.88,0.05,249.55,Portugal,Debit Card
+INV539822,2025-05-31 19:13:00,CUST1048,Yoga Mat,Sports,12,15.72,0,188.64,United Kingdom,Bank Transfer
+INV538486,2025-04-02 19:08:00,CUST1073,Wool Scarf,Apparel,7,12.22,0,85.54,France,Credit Card
+INV537540,2025-02-20 09:40:00,CUST1073,Wireless Mouse,Electronics,7,14.71,0,102.97,Spain,PayPal
+INV538168,2025-03-19 14:09:00,CUST1098,Notebook Set,Stationery,10,3.39,0.1,30.51,Spain,Credit Card
+INV537391,2025-02-13 18:07:00,CUST1057,Scented Candle,Home Decor,9,5.83,0,52.47,Netherlands,Credit Card
+INV538207,2025-03-21 16:10:00,CUST1018,Wool Scarf,Apparel,4,12.24,0,48.96,Spain,Credit Card
+INV538010,2025-03-12 14:25:00,CUST1002,Coffee Beans 1kg,Grocery,12,10.07,0,120.84,France,Bank Transfer
+INV540377,2025-06-24 12:05:00,CUST1025,Wool Scarf,Apparel,1,11.33,0,11.33,Germany,Credit Card
+INV540030,2025-06-09 12:00:00,CUST1048,Cotton T-Shirt,Apparel,5,7.4,0,37.0,Belgium,PayPal
+INV539599,2025-05-21 14:45:00,CUST1079,Ceramic Mug,Kitchenware,12,4.63,0.1,50.0,Netherlands,PayPal
+INV538298,2025-03-25 11:53:00,CUST1023,Notebook Set,Stationery,9,2.9,0,26.1,Spain,PayPal
+INV538665,2025-04-10 08:02:00,CUST1019,Ceramic Mug,Kitchenware,3,4.89,0,14.67,Netherlands,Bank Transfer
+INV537198,2025-02-05 14:57:00,CUST1028,Wool Scarf,Apparel,4,12.57,0,50.28,Germany,Debit Card
+INV536637,2025-01-12 10:54:00,CUST1064,Yoga Mat,Sports,11,15.13,0.05,158.11,Portugal,Bank Transfer
+INV537928,2025-03-09 14:35:00,CUST1035,Throw Pillow,Home Decor,5,7.3,0,36.5,Portugal,Bank Transfer
+INV539775,2025-05-29 10:57:00,CUST1015,Glass Vase,Home Decor,2,9.57,0.1,17.23,Spain,PayPal
+INV537063,2025-01-30 19:01:00,CUST1005,Notebook Set,Stationery,9,3.5,0.1,28.35,Ireland,Bank Transfer
+INV539313,2025-05-08 12:50:00,CUST1037,Notebook Set,Stationery,12,3.13,0,37.56,Belgium,Bank Transfer
+INV537939,2025-03-09 14:25:00,CUST1001,Scented Candle,Home Decor,9,5.98,0.1,48.44,Netherlands,Credit Card
+INV536856,2025-01-22 13:48:00,CUST1106,Coffee Beans 1kg,Grocery,4,11.51,0,46.04,Ireland,Credit Card
+INV538215,2025-03-21 11:25:00,CUST1016,Yoga Mat,Sports,7,15.63,0.1,98.47,Spain,PayPal
+INV537272,2025-02-08 14:07:00,CUST1029,Bluetooth Speaker,Electronics,4,24.19,0.1,87.08,Belgium,Debit Card
+INV536741,2025-01-17 12:05:00,CUST1047,LED Desk Lamp,Electronics,5,17.0,0,85.0,France,Credit Card
+INV537551,2025-02-20 19:53:00,CUST1113,Cotton T-Shirt,Apparel,2,7.2,0.05,13.68,France,Credit Card
+INV537385,2025-02-13 16:39:00,CUST1117,Desk Organizer,Stationery,6,6.13,0,36.78,France,Debit Card
+INV537333,2025-02-11 19:23:00,CUST1118,LED Desk Lamp,Electronics,8,19.88,0,159.04,Belgium,Bank Transfer
+INV540187,2025-06-16 10:33:00,CUST1040,Yoga Mat,Sports,9,14.8,0.1,119.88,Spain,Credit Card
+INV537845,2025-03-05 08:59:00,CUST1007,Yoga Mat,Sports,5,15.84,0,79.2,United Kingdom,PayPal
+INV539797,2025-05-30 11:09:00,CUST1033,Travel Mug,Kitchenware,4,5.72,0,22.88,Belgium,Bank Transfer
+INV539790,2025-05-30 19:39:00,CUST1007,Coffee Beans 1kg,Grocery,1,10.79,0,10.79,France,PayPal
+INV538970,2025-04-23 14:39:00,CUST1044,LED Desk Lamp,Electronics,1,17.38,0,17.38,Spain,PayPal
+INV538539,2025-04-04 10:25:00,CUST1048,Bluetooth Speaker,Electronics,12,25.08,0.1,270.86,Germany,PayPal
+INV536638,2025-01-12 18:16:00,CUST1091,Notebook Set,Stationery,2,3.09,0.05,5.87,France,Credit Card
+INV538919,2025-04-21 17:18:00,CUST1068,Ceramic Mug,Kitchenware,1,4.21,0,4.21,France,PayPal
+INV537610,2025-02-23 19:34:00,CUST1095,Desk Organizer,Stationery,12,6.13,0.05,69.88,Spain,PayPal
+INV540394,2025-06-25 09:28:00,CUST1062,Desk Organizer,Stationery,8,7.21,0,57.68,Ireland,Debit Card
+INV539848,2025-06-01 08:34:00,CUST1117,Cotton T-Shirt,Apparel,9,7.95,0,71.55,Portugal,PayPal
+INV538796,2025-04-15 19:42:00,CUST1060,Cotton T-Shirt,Apparel,8,7.89,0.05,59.96,Netherlands,Debit Card
+INV536762,2025-01-18 12:45:00,CUST1073,Cotton T-Shirt,Apparel,7,7.64,0,53.48,Germany,Debit Card
+INV538998,2025-04-24 11:05:00,CUST1102,Wool Scarf,Apparel,3,11.82,0.05,33.69,France,PayPal
+INV536639,2025-01-12 18:48:00,CUST1024,Wireless Mouse,Electronics,6,14.81,0.1,79.97,France,Debit Card
+INV537995,2025-03-12 08:13:00,CUST1038,Scented Candle,Home Decor,4,5.57,0,22.28,Belgium,Credit Card
+INV536769,2025-01-18 13:12:00,CUST1037,Bluetooth Speaker,Electronics,2,25.27,0,50.54,Netherlands,PayPal
+INV537616,2025-02-23 12:22:00,CUST1013,Bluetooth Speaker,Electronics,1,25.58,0,25.58,United Kingdom,Bank Transfer
+INV538558,2025-04-05 09:06:00,CUST1091,Wireless Mouse,Electronics,4,14.86,0,59.44,Portugal,Debit Card

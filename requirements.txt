@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+pydantic
+python-multipart
+openpyxl
+pytest
+httpx
+truststore
+python-dotenv
